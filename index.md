@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+## Data Visualizations
 
-[Project 1 Title](/sample_page)
+[Sankey Diagram](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
