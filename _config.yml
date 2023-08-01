@@ -1,10 +1,11 @@
 title: Marilyn Williams # your name (or website title) here
 logo: "/images/mw.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  This is a collection of my Data Science Portfolio 
+  First description 
   <br><br>
+  Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/marilyn-williams-businessdataprofessional/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
