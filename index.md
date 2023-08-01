@@ -5,7 +5,7 @@
 ## Data Visualizations
 
 [Sankey Diagram](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Sankey Diagram.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Python Projects
 
 - [Project 1 Title]([http://example.com/](https://public.tableau.com/app/profile/marilyn.williams/viz/SankeyDiagram_16904703118090/Dashboard1))
 - [Project 2 Title](http://example.com/)
