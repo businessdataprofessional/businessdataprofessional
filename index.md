@@ -5,7 +5,7 @@
 ## Data Visualizations
 
 [Sankey Diagram](https://public.tableau.com/app/profile/marilyn.williams/viz/SankeyDiagram_16904703118090/Dashboard1)
-<img src="images/Sankey Diagram.png?raw=true"/>
+<img src="images/Dashboard 1 (2).png?raw=true"/>
 
 ---
 [Los Angeles Crime Data](https://public.tableau.com/app/profile/marilyn.williams/viz/311-Cleaned_Updated-/REQPRE2)
